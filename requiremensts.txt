@@ -1,0 +1,8 @@
+Pillow
+selenium
+google-generativeai
+PyQt5
+sounddevice
+numpy
+speechrecognition
+openai
